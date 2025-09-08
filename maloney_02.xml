@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="test_stylesheet.xsl"?>
+<!--I was messing with a stylesheet since i did an xlink and wanted to see if the link worked, unfrotunately i am too tired to figure it out fully-->
+<root xmlns:xlink="https://www.loc.gov/item/44028152/">
+    <heading num="1">Shrewsbury Cakes: Original Recipe.</heading>
+    <para num="one">
+        <info>This recipe comes from MS Codex 625, a manuscript recipe book that belonged to a
+            student in a <place>London</place> cooking school in the early eighteenth century. The
+            pastry school was owned by <person type="headmaster">Edward Kidder</person>, who taught
+            at a few locations in <place>London</place> between around <year>1720 and 1734</year>.
+            Blank books with printed title pages seem to have been used by students to write down
+            recipes they learned. <person type="headmaster">Kidder</person> also published his
+            recipes in the printed volume, <kidder xlink:type="simple"
+                xlink:href="https://www.loc.gov/item/44028152/">Receipts for Pastry and
+                Cookery</kidder>, in <year>1720</year>.</info>
+    </para>
+    <original>
+        <para num="two">Take a <measurment>pound</measurment> of fresh butter a pound of double
+            refind sugar sifted fine a little beaten mace &amp; 4 eggs beat them all together with.
+            your hands till tis very leight &amp; looks curdling you put thereto a pound &amp; 1/2
+            of <plant>flower</plant> roul them out into little cakes</para>
+        <!--Four eggs seems like a lot, even for a recipe this old-->
+        <!--Then again, a pound of butter and sugar seems like a lot too, but really isnt-->
+    </original>
+    <new>
+        <heading num="2"> Our recipe (halved from the original)</heading>
+        <para num="three">
+
+            <dry>
+                <ingredient>
+                    <measurment type="pound">1/2 lb.</measurment> sugar</ingredient>
+                <ingredient>
+                    <measurment type="teaspoon">1/4 tsp.</measurment> mace</ingredient>
+                <ingredient>
+                    <measurment type="teaspoon">1/2 tsp.</measurment> cinnamon</ingredient>
+                <ingredient>
+                    <measurment type="pound">3/4 lb.</measurment> flour</ingredient>
+                <!--Please dont use hamsters when baking, thank you-->
+            </dry>
+            <wet>
+                <ingredient>2 eggs</ingredient>
+                <ingredient>
+                    <measurment type="pound">1/2 lb.</measurment> (2 sticks) butter,
+                    softened</ingredient>
+            </wet>
+
+        </para>
+        <steps>
+            <para num="four">Using an <tool>electric mixer</tool>, cream together the butter and
+                sugar. Then add the eggs and mix at medium speed until the mixture looks curdled.
+                    <tool>Sift</tool> together dry ingredients and add at low speed until just
+                combined. <tool>Scoop</tool> and roll the dough by hand into 1-tbsp. balls, then pat
+                flat. [You could also refrigerate the dough until it’s firm enough to roll out on a
+                flat surface and cut out into rounds.]</para>
+            <para num="five">Bake at <temp>350F</temp> for <time>15-18 minutes</time> (ours were
+                about <measurment>1/3″</measurment> thick, so you could roll them thinner and have a
+                slightly shorter cooking time). They’re done once they turn the slightest bit brown
+                around the edges. This halved recipe yielded about two dozen cookies.</para>
+        </steps>
+        <heading num="3">The Results</heading>
+        <para num="six">If you like <food>snickerdoodles</food> (and who doesn’t?), you’d like
+            these. We added the cinnamon because we like it and couldn’t resist, and we thought it
+            rounded out the mace nicely. These are mild, fairly soft cookies that are great with
+            tea. We rolled and patted the dough into individual cookies because it was too soft and
+            stick to roll out, but a little bit more flour and a stint in the fridge might make the
+            dough easier to work with a <tool>rolling pin</tool>.</para>
+    </new>
+</root>
