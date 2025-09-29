@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="Maloney_04%20schema.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
     <metadata>
-        <stamp where="right" line="5, 7, 9, 10" color="red" origin="The-Library-of-Congress"/>
+        <stamp where="right" lines="5, 7, 9, 10" color="red" origin="The-Library-of-Congress"/>
     </metadata>
     <typewriter>
         <heading>"Ballad of Booker T.," by Langston Hughes, June 1, 1941</heading>
