@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../maloney_07%20schema.rnc" type="application/relax-ng-compact-syntax"?>
+<root>
+    <metadata>
+        <title>Becoming the Lastnames</title>
+        <artist>Will Wood</artist>
+        <album>In case I make it,</album>
+        <track num="2"/>
+    </metadata>
+    <song>
+        <verse num="1">
+            <line>Don't take the following words as reverence for tradition</line>
+            <line>I've learned to pick my battles by losing most I've fought</line>
+            <line>The more mores subverted, the more I sense I'm missing</line>
+            <line>And I'll always do it my way, even if that's just the same way I was taught</line>
+            <line> I'll bring home the bread and you'll stay home and bake it, mmhmm-mm</line>
+            <line type="annotation" verified="yes">Weeding out the garden where the milestones
+                gather moss</line>
+            <line>Crack a smile at my vows and whisper, "Wow, can you believe we really made
+                it?"</line>
+            <line>As I give up on dodging rice and fold my cape, I say, "Obviously not"</line>
+        </verse>
+
+        <chorus num="1">
+            <line>But I want to be just like my parents before I was born</line>
+            <line>Oh, can we be just like my parents? Mmhmm</line>
+        </chorus>
+
+        <verse num="2">
+            <line>I know you don't want kids, but think about a daughter</line>
+            <line type="annotation" verified="yes">We could name her Gwendolyn, like mom would have
+                called me</line>
+            <line>I'm not sure yet myself, but I learned from a good father</line>
+            <line type="annotation" verified="yes">Yeah, I mean, sure, they messed me up, but I
+                think that's just the gig</line>
+            <line type="annotation" verified="yes">And maybe it's just some hormones that kick in in
+                your late twenties</line>
+            <line type="annotation" verified="yes">But I have laid a lot of women and now I'd like
+                to just lay down</line>
+            <line>And marriage always scared me, but I'd like to have a last love</line>
+            <line>And love can last a pretty good long while, yeah, I've seen it around</line>
+        </verse>
+
+        <chorus num="2" type="annotation" verified="yes">
+            <line>Oh, can we be just like my parents when I was young?</line>
+            <line>Why can't we be just like my parents? Mmhmm</line>
+        </chorus>
+
+        <instrumental/>
+
+        <verse num="3" type="bridge">
+            <line>So tongue out of my cheek now, I'm done pulling faces</line>
+            <line>Iconoclasm wanes, my cynicism tires</line>
+            <line>But what do I know 'bout forever when so far I've been so fleeting?</line>
+            <line>Babe, my frontal lobe's done growing, this might just be how I'm wired</line>
+            <line>But now we're kissing before brushing, smile with our whole faces</line>
+            <line type="annotation" verified="yes">If you want a hyphen last name, I guess I don't
+                mind the cadence</line>
+            <line>I've seen home videos, I was there back in the 80's</line>
+            <line type="annotation" verified="yes">And if I'm just them and they back then could do
+                it, why can't I?</line>
+        </verse>
+
+        <chorus num="3">
+            <line>Just like my parents in due time</line>
+            <line>Imagine me, just like my parents, yeah, right</line>
+        </chorus>
+
+        <verse num="4" type="annotation" verified="yes">
+            <line>'Cause I've made more mistakes than simple empty moments</line>
+            <line>Whoa-oh, each one as out of character as you know I tend to be</line>
+            <line>There'll be scalpers at the cemetery gates, with all my would be widows
+                weeping</line>
+            <line>Oh, I'd have forgotten all their names, so why should you remember me?</line>
+        </verse>
+
+        <verse num="5">
+            <line>If we grow old together, will you talk to my headstone?</line>
+            <line>That is, assuming that I die first (which is fair) and assuming I don't
+                leave</line>
+            <line>Close enough to forever, I guess, to prove what I hope</line>
+            <line>I mean, otherwise, how am I to believe? Oh, ooh</line>
+        </verse>
+
+        <instrumental/>
+    </song>
+    <source href="https://genius.com/26386074"/>
+</root>

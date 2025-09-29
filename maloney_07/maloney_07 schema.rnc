@@ -1,0 +1,20 @@
+start= root
+root= element root {metadata, song, source}
+    metadata= element metadata {title, artist, album, track}
+        title= element title {text}
+        artist= element artist {text}
+        album= element album {text}
+        track= element track {num}
+            num= attribute num {text}
+
+    song= element song {verse+, chorus+, verse+, chorus+, instrumental+, verse+, chorus+, verse+, instrumental+}
+        verse= element verse {num*, type*, verified*, line+}
+            line= element line {type*, verified*, text}
+                type= attribute type {text}
+                verified= attribute verified {text}
+        chorus= element chorus {num*, type*, verified*, line+}
+        instrumental= element instrumental {empty}
+        
+    source= element source {href}
+        href= attribute href {text}
+        
